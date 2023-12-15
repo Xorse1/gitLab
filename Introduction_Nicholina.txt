@@ -1,0 +1,4 @@
+I am Nicholina Owusu Acheaw, I work as a medical research assistant and I love watching movies, especially sci-fi, horror and thrillers. After the programme, I expect to have gained enough knowledge to write the AWS certification and become an AWS certified Cloud engineer so I can get a job with that. A funfact about me is that I enjoy trying out new foods from restaurants. One superpower I would like to have is invisibility.
+
+
+git remote add origin https://github.com/RonaldRhema/room4.git
